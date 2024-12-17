@@ -3,6 +3,10 @@ import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
+
+// https://codepen.io/wisearts/pen/ExZGrbZ
+
+
 gsap.registerPlugin(ScrollTrigger);
 
 const PinVideo = () => {
